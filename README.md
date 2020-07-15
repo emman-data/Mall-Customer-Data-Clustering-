@@ -1,0 +1,2 @@
+# Mall-Customer-Data-Clustering-
+The Mall Customers dataset contains details about people visiting the mall such as their gender, age, annual income and spending score. From the data, insights can be derived which divide the customers into different groups based on customer behavior. Customers are to be segmented based on these features into these individual groups. This is quite useful for marketing purposes so as to have customised marketing.
